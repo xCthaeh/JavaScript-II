@@ -26,7 +26,7 @@ This task focuses on getting practice with higher order functions and callback f
 
 * [x] Review the contents of the [callbacks.js](assignments/callbacks.js) file.  Notice you are given an array at the top of the page.  Use that array to aid you with your functions.
 
-* [ ] Complete the problems provided to you but skip over stretch problems until you are complete with every other JS file first.
+* [x] Complete the problems provided to you but skip over stretch problems until you are complete with every other JS file first.
 
 ## Task 3: Array Methods
 
@@ -34,9 +34,9 @@ Use `.forEach()`, `.map()`, `.filter()`, and `.reduce()` to loop over an array w
 
 * [x] Review the contents of the [array-methods.js](assignments/array-methods.js) file.  
 
-* [ ] Complete the problems provided to you but skip over stretch problems until you are complete with every other JS file first.
+* [x] Complete the problems provided to you but skip over stretch problems until you are complete with every other JS file first.
 
-* [ ] Notice the last three problems are up to you to create and solve.  This is an awesome opportunity for you to push your critical thinking about array methods, have fun with it.
+* [x] Notice the last three problems are up to you to create and solve.  This is an awesome opportunity for you to push your critical thinking about array methods, have fun with it.
 
 ## Task 4: Closures
 
