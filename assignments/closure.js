@@ -1,6 +1,19 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
 
+function dialog(){
+
+  let hagrid="Hagrid: You're a wizard, Harry!";
+  let harry="Harry: I'm a wot?!"
+    console.log(`${hagrid} / ${harry}`);
+      function dialog2() {
+         let hagrid2="A wizard !";
+          console.log(`${hagrid} / ${harry} / ${hagrid2}`);
+      }
+       dialog2();
+
+}
+dialog();
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
