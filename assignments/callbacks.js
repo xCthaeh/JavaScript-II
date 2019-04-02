@@ -94,8 +94,17 @@ contains('Candy',items,function(check){
 
 /* STRETCH PROBLEM */
 
-function removeDuplicates(array, cb) {
+let firstArr=[7,6,8,3,2,4,3,7];
+
+function removeDuplicates(firstArr, cb) {
   // removeDuplicates removes all duplicate values from the given array.
   // Pass the duplicate free array to the callback function.
   // Do not mutate the original array.
+    let newArr = firstArr.filter(cb);
+
+    return newArr;
 }
+function filterCb (Element,index,firstArr){
+    return index == firstArr.indexOf(Element);
+}
+console.log(removeDuplicates(firstArr, filterCb));
